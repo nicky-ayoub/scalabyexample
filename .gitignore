@@ -1,0 +1,7 @@
+/target
+/project/target
+/project/project/target
+/src/main/scala/target
+/.idea_modules
+/.idea
+*~
